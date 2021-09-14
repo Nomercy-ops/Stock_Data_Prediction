@@ -20,7 +20,7 @@
 * Following is the workflow diagram or architecture for our project for predicting the stock price
 
 <p align="center">
-  <img src="architecture.png" width="350" alt="accessibility text">
+  <img src="Stock_Data_Prediction_Using_Live_Data/architecture.png" width="350" alt="accessibility text">
 </p>
 
 #### Start zookeeper services
@@ -36,7 +36,7 @@
 
 #### After running the code we will see animated graph plotting data
 <p align="center">
-  <img src="Output.png" width="350" alt="accessibility text">
+  <img src="Stock_Data_Prediction_Using_Live_Data/Output.png" width="350" alt="accessibility text">
 </p>
 
 
