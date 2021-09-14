@@ -19,9 +19,7 @@
 * Flask: for rendering visualization of data in web browser
 * Following is the workflow diagram or architecture for our project for predicting the stock price
 
-<p align="center">
-  <img src="Stock_Data_Prediction_Using_Live_Data/architecture.png" width="350" alt="accessibility text">
-</p>
+![myimage-alt-tag](https://github.com/Nomercy-ops/Stock_Data_Prediction/blob/Stock_Data_Prediction_Using_Live_Data/Stock_Data_Prediction_Of_Live_Data/architecture.png?raw=true)
 
 #### Start zookeeper services
 * $ bin/zookeeper-server-start.sh config/zookeeper.properties
@@ -35,9 +33,8 @@
 
 
 #### After running the code we will see animated graph plotting data
-<p align="center">
-  <img src="Stock_Data_Prediction_Using_Live_Data/Output.png" width="350" alt="accessibility text">
-</p>
+
+![myimage-alt-tag](https://github.com/Nomercy-ops/Stock_Data_Prediction/blob/Stock_Data_Prediction_Using_Live_Data/Stock_Data_Prediction_Of_Live_Data/Output.png?raw=true)
 
 
 
