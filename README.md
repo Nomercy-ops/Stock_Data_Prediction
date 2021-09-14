@@ -1,4 +1,4 @@
-# Stock Data Prediction Using Live Data
+# Stock Data Prediction Using Static Data
 
 ## PROJECT SIMULATION ON STOCK PRICE PREDICTION USING Static DATA
 
