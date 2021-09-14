@@ -20,7 +20,6 @@
 * Following is the workflow diagram or architecture for our project for predicting the stock price
 
 <p align="center">
-  <img src="your_relative_path_here" width="350">
   <img src="architecture.png" width="350" alt="accessibility text">
 </p>
 
@@ -37,7 +36,6 @@
 
 #### After running the code we will see animated graph plotting data
 <p align="center">
-  <img src="your_relative_path_here" width="350">
   <img src="Output.png" width="350" alt="accessibility text">
 </p>
 
