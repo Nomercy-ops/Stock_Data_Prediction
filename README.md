@@ -34,7 +34,7 @@
 
 #### After running the code we will see animated graph plotting data
 
-![myimage-alt-tag](https://github.com/Nomercy-ops/Stock_Data_Prediction/blob/Stock_Data_Prediction_Using_Live_Data/Stock_Data_Prediction_Of_Live_Data/Output.png?raw=true)
+![myimage-alt-tag](https://github.com/Nomercy-ops/Stock_Data_Prediction/blob/main/Stock_Data_Prediction_Using_Live_Data/Stock_Data_Prediction_Of_Live_Data/Output.png?raw=true)
 
 
 
